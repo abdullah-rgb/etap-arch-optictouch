@@ -7,11 +7,7 @@ You need 4.19.257 kernel version. You can get it from the address: https://githu
 ```shell
 yay -S touchegg
 
-clear
-
 yay -S touche
-
-clear
 
 sudo systemctl enable touchegg
 
