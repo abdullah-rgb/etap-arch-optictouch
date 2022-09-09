@@ -9,6 +9,8 @@ yay -S touchegg
 
 yay -S touche
 
+yay -S usbutils
+
 sudo systemctl enable touchegg
 
 sudo systemctl start touchegg
