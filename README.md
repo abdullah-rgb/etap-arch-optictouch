@@ -36,4 +36,6 @@ sudo make
 sudo insmod OpticalDrv.ko
 
 sudo systemctl restart eta-touchdrv
+
+sudo systemctl restart touchegg
 ```
